@@ -8,6 +8,7 @@ GitHub Pages: https://sforzando.github.io/WorkingRules/
 - [How to Preview](#how-to-preview)
 - [Miscellaneous](#miscellaneous)
   - [Contributors](#contributors)
+  - [License](#license)
 
 ## Dependencies
 
@@ -31,3 +32,23 @@ Then `http://0.0.0.0:4000` will be updated until press `Ctrl+C` .
 - 代表社員: 鈴木 真一朗
 - 顧問税理士: 坂井 桂之介
 - 顧問弁護士: 村上 淳平
+
+### License
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://sforzando.github.io/WorkingRules/">
+    <span property="dct:title">sforzando LLC.</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Working Rules</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="JP" about="https://sforzando.github.io/WorkingRules/">
+  Japan</span>.
+</p>

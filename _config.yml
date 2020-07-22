@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+timezone: Asia/Tokyo
+encoding: utf-8
+exclude: ["docker-compose.yml"]
+title: Working Rules
+description: 合同会社スフォルツァンド 就業規則等
+email: contact@sforzando.co.jp
+github_username: sforzando
+logo: images/logo_651x651_003366.png
+show_downloads: false
+google_analytics: UA-107021028-1

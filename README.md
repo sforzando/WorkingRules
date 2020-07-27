@@ -7,6 +7,7 @@ GitHub Pages: https://sforzando.github.io/WorkingRules/
 - [Dependencies](#dependencies)
 - [How to Preview](#how-to-preview)
 - [Miscellaneous](#miscellaneous)
+  - [References](#references)
   - [Contributors](#contributors)
   - [License](#license)
 
@@ -26,6 +27,10 @@ docker-compose up
 Then `http://0.0.0.0:4000` will be updated until press `Ctrl+C` .
 
 ## Miscellaneous
+
+### References
+
+- [デンキヤギ株式会社 就業規則](https://github.com/DenkiYagi/EmployeeHandbook)
 
 ### Contributors
 

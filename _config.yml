@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
 timezone: Asia/Tokyo
 encoding: utf-8
 exclude: ["docker-compose.yml"]

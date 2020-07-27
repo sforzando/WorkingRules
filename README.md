@@ -13,7 +13,7 @@ GitHub Pages: https://sforzando.github.io/WorkingRules/
 ## Dependencies
 
 - [Jekyll](http://jekyllrb-ja.github.io/)
-  - [Theme: Minimal](https://github.com/pages-themes/minimal)
+  - [Theme: Minima](https://github.com/jekyll/minima)
 - [Docker](https://www.docker.com/)
   - [Docker Compose](https://docs.docker.com/compose/)
 
@@ -32,6 +32,7 @@ Then `http://0.0.0.0:4000` will be updated until press `Ctrl+C` .
 - 代表社員: 鈴木 真一朗
 - 顧問税理士: 坂井 桂之介
 - 顧問弁護士: 村上 淳平
+- 社会保険労務士: **(T.B.D.)**
 
 ### License
 

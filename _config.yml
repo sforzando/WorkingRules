@@ -3,8 +3,11 @@ timezone: Asia/Tokyo
 encoding: utf-8
 exclude: ["docker-compose.yml"]
 title: Working Rules
-description: 合同会社スフォルツァンド 就業規則等
+author:
+  name: sforzando LLC.
+  email: contact@sforzando.co.jp
 email: contact@sforzando.co.jp
+description: 合同会社スフォルツァンド 就業規則等
 github_username: sforzando
 logo: images/logo_651x651_003366.png
 show_downloads: false

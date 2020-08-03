@@ -1,6 +1,6 @@
 # Working Rules
 
-合同会社スフォルツァンド 就業規則等
+合同会社スフォルツァンド 社内規定等
 
 GitHub Pages: [https://sforzando.github.io/WorkingRules/](https://sforzando.github.io/WorkingRules/)
 

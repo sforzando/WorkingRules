@@ -1,5 +1,7 @@
 # Working Rules
 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sforzando/WorkingRules/:branch)
+
 合同会社スフォルツァンド 社内規定等
 
 GitHub Pages: [https://sforzando.github.io/WorkingRules/](https://sforzando.github.io/WorkingRules/)

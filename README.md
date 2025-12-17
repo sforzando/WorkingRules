@@ -1,6 +1,6 @@
 # Working Rules
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sforzando/WorkingRules/:branch)
+[![Last Commit](https://img.shields.io/github/last-commit/sforzando/WorkingRules)](https://github.com/sforzando/WorkingRules/graphs/commit-activity)
 
 合同会社スフォルツァンド 社内規定等
 
